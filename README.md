@@ -1,0 +1,1 @@
+Reproduction of animated Android logo following tutorial by Diogo Corrêa which can be found at http://thecodeplayer.com/walkthrough/css3-android-logo.
